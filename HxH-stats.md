@@ -18,7 +18,7 @@
 | Razor | Emitter | 32 | 37 | 27 | 30 | 35 | 40 | 25 | 36 | 35 | 297 | Aura ball, 14 devils |
 | Chrollo | Specialist | 28 | 24 | 25 | 30 | 40 | 35 | 41 | 40 | 33 | 296 | Bandit's secret |
 | Illumi | Manipulator | 30 | 31 | 27 | 30 | 40 | 35 | 35 | 35 | 32 | 295 | Pin and needles |
-| Feitan | Transmuter | 26 | 27 | 26 | 30 | 42 | 38 | 26 | 35 | 33 | 283 | Rising sun |
+| Feitan | Transmuter | 26 | 27 | 26 | 30 | 42 | 37 | 26 | 35 | 33 | 282 | Rising sun |
 | Kite | Conjurer | 28 | 23 | 27 | 30 | 30 | 35 | 35 | 39 | 33 | 280 | Crazy slots |
 | Tsubone | Conjurer | 26 | 30 | 26 | 30 | 30 | 33 | 33 | 35 | 36 | 279 | Rider's high |
 | Uvogin | Enhacer | 35 | 42 | 30 | 21 | 25 | 30 | 22 | 37 | 33 | 275 | Big bang impact |
